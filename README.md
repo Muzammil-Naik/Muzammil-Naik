@@ -15,13 +15,11 @@ Welcome to my GitHub profile. I'm passionate about cloud computing and DevOps, a
 - 📚 Continuous Learning: Technology is ever-evolving, and I'm committed to staying updated and adapting to new challenges.
 
 
-## Get in Touch
-
-- 📧 Email: muzammil.naik@outlook.com
-- 💬 LinkedIn: [Muzammil's LinkedIn](https://www.linkedin.com/in/naik-mohammed-muzammil/)
-
 ## How to Reach Me
 
 Feel free to reach out if you're interested in collaborating on projects, discussing cloud computing, or sharing insights on DevOps. I'm open to connecting with fellow enthusiasts, developers, and tech enthusiasts.
+
+- 📧 Email: muzammil.naik@outlook.com
+- 💬 LinkedIn: [Muzammil's LinkedIn](https://www.linkedin.com/in/naik-mohammed-muzammil/)
 
 Let's learn and grow together! 🌱
