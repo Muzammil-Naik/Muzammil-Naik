@@ -5,8 +5,8 @@ Welcome to my GitHub profile. I'm passionate about cloud computing and DevOps, a
 ## About Me
 
 - 🌍 Location: Hyderabad
-- 💼 Occupation: Cloud Enthusiast 
-- 🌱 Currently learning: Infrastructure as Code | OCI
+- 💼 Occupation: Cloud Engineer 
+- 🌱 Currently learning: Multicloud Deployments | Azure | GCP | OCI
 
 ## Interests
 
