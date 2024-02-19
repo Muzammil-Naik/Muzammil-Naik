@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm passionate about cloud computing and DevOps, a
 
 ## About Me
 
-- 🌍 I hail from Hyderabad, India. My professional journey 💼 revolves around being a Cloud Engineer specializing in Multicloud Deployments.
+- 🌍 I hail from Hyderabad, India. My professional journey 💼 revolves around being a Cloud & DevOps Engineer specializing in Multicloud Deployments.
 
 ## Interests
 
