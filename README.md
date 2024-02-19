@@ -1,4 +1,4 @@
-# Hey there, I'm Muzammil! 👋
+# Hey there, I'm Muzammil! 
 
 Welcome to my GitHub profile. I'm passionate about cloud computing and DevOps, and I'm constantly exploring the world of technology to enhance my skills and knowledge. This README gives you a glimpse into my interests, projects, and journey.
 
