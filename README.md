@@ -5,19 +5,19 @@ Welcome to my GitHub profile! I'm a Cloud & DevOps Engineer with a passion for b
 ## 🚀 About Me
 
 - 🌍 Based in Hyderabad, India.  
-- 💼 Currently working at HCLTech as a Cloud & DevOps Engineer.  
+- 💼 Currently working at DNV as a Cloud & DevOps Engineer.  
 - ☁️ Proficient in multicloud environments, including Microsoft Azure, Google Cloud Platform & Oracle Cloud Infrastructure.  
-- 🛠️ Skilled in Infrastructure as Code (IaC) tools like Terraform and configuration management with Ansible.  
-- 🔄 Experienced in CI/CD pipelines using Azure DevOps and GitHub Actions.  
+- 🛠️ Skilled in Infrastructure as Code (IaC) tools like Terraform..  
+- 🔄 Experienced in CI/CD pipelines using Azure DevOps and ArgoCD.  
 - 📦 Containerization and orchestration using Docker and Kubernetes.
 
 ## 🧰 Skills & Tools
 
 - **Cloud Platforms:** Azure, Google Cloud Platform (GCP)  
-- **DevOps Tools:** Azure DevOps  
+- **DevOps Tools:** Azure DevOps, ArgoCD
 - **Infrastructure as Code:** Terraform, Ansible  
 - **Containerization:** Docker, Kubernetes  
-- **Scripting & Automation:** Python
+- **Scripting & Automation:** Python, Powershell
 - **Monitoring & Logging:** Azure Monitor, Prometheus, Grafana.
 
 ## 📫 Let's Connect
